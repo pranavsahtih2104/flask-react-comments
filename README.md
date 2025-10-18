@@ -1,10 +1,5 @@
 # flask-react-comments
 
-Absolutely! Here's a **professional README** you can use for your Flask + React comments CRUD project. You can copy this into a `README.md` in your repo:
-
----
-
-# Flask-React Comments CRUD App
 
 ## **Project Overview**
 
@@ -29,8 +24,6 @@ This project is a full-stack web application to **add, edit, delete, and view co
 * **Frontend:** React, Axios
 * **Database:** SQLite (development)
 * **Testing:** Pytest (backend API tests)
-* **Other Tools:** Postman for API testing, Git/GitHub for version control
-
 ---
 
 ## **Project Structure**
